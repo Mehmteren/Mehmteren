@@ -8,7 +8,7 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünde 4. sınıf öğrenc
 
 - 📍 Bursa'da yaşıyorum
 - 📧 Bana [erenmhmt16@gmail.com](erenmhmt16@gmail.com) adresinden ulaşabilirsiniz
-- 🔗 [LinkedIn]([https://linkedin.com/in/mehmeteren](https://www.linkedin.com/in/mehmet-eren-48644128b/)) üzerinden bağlantı kurabilirsiniz
+- 🔗 [LinkedIn]([https://linkedin.com/in/mehmeteren](https://www.linkedin.com/in/mehmet-eren-48644128b/) üzerinden bağlantı kurabilirsiniz
 - 💼 Şu anda yüksek doğruluklu akciğer işlevsiz bölge tespiti üzerine çalışıyorum
 - 🤝 Açık kaynaklı projelerde işbirliğine açığım
 
