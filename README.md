@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mehmet Eren / README.md
 
-<!--
-**Mehmteren/Mehmteren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Merhaba 👋 Benim adım Mehmet Eren
 
-Here are some ideas to get you started:
+**4. sınıf Bilgisayar Mühendisliği Öğrencisi - Selçuk Üniversitesi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünde 4. sınıf öğrencisiyim. Derin öğrenme ve makine öğrenimi konularında projeler yapıyorum. Ayrıca görüntü işleme, veritabanı programlama Bulut sistemleri alanlarında da tecrübem var. 
+
+- 📍 Bursa'da yaşıyorum
+- 📧 Bana [erenmhmt16@gmail.com](erenmhmt16@gmail.com) adresinden ulaşabilirsiniz
+- 🔗 [LinkedIn](https://linkedin.com/in/mehmeteren) üzerinden bağlantı kurabilirsiniz
+- 💼 Şu anda yüksek doğruluklu akciğer işlevsiz bölge tespiti üzerine çalışıyorum
+- 🤝 Açık kaynaklı projelerde işbirliğine açığım
+
+### Yetenekler
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
