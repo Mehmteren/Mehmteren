@@ -1,6 +1,6 @@
 # Mehmet Eren / README.md
 
-## Merhaba 👋 Benim adım Mehmet Eren
+## Merhaba 👋 Ben Mehmet Eren
 
 **4. sınıf Bilgisayar Mühendisliği Öğrencisi - Selçuk Üniversitesi**
 
