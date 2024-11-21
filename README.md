@@ -1,18 +1,18 @@
 # Mehmet Eren / README.md
 
-## Merhaba 👋 Ben Mehmet Eren
+## Hi 👋 I'm Mehmet Eren
 
-**4. sınıf Bilgisayar Mühendisliği Öğrencisi - Selçuk Üniversitesi**
+**4th year Computer Engineering Student - Selçuk University**
 
-Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünde 4. sınıf öğrencisiyim. Derin öğrenme ve makine öğrenimi konularında projeler yapıyorum. Ayrıca görüntü işleme, veritabanı programlama Bulut sistemleri alanlarında da tecrübem var. 
+I am a 4th year student at Selçuk University, Department of Computer Engineering. I do projects on deep learning and machine learning. I also have experience in image processing, database programming and cloud systems.
 
-- 📍 Bursa'da yaşıyorum
-- 📧 Bana [erenmhmt16@gmail.com](erenmhmt16@gmail.com) adresinden ulaşabilirsiniz
-- 🔗 [LinkedIn]([https://linkedin.com/in/mehmeteren](https://www.linkedin.com/in/mehmet-eren-48644128b/) üzerinden bağlantı kurabilirsiniz
-- 💼 Şu anda yüksek doğruluklu akciğer işlevsiz bölge tespiti üzerine çalışıyorum
-- 🤝 Açık kaynaklı projelerde işbirliğine açığım
+- 📍 I live in Bursa
+- 📧 You can reach me at [erenmhmt16@gmail.com](erenmhmt16@gmail.com)
+- 🔗 [LinkedIn]([https://linkedin.com/in/mehmeteren](https://www.linkedin.com/in/mehmet-eren-48644128b/)
+- 💼 I am currently working on high-accuracy lung dysfunctional zone detection
+- 🤝 I am open to collaboration on open source projects
 
-### Yetenekler
+### Skills
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)
