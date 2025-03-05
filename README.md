@@ -14,7 +14,7 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 
 ---
 
-### 🚀 Skills  
+### Skills  
 
 | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) |  
 |---|---|---|  
