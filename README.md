@@ -1,43 +1,24 @@
-<h1 align="center">Merhaba 👋, ben Mehmet Eren</h1>
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=336791&width=435&lines=Backend+Developer;Bilgisayar+Mühendisliği+Öğrencisi" alt="Typing SVG" /></a>
-</h3>
+# Mehmet Eren / README.md
 
-<h3 align="justify">Selçuk Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Derin öğrenme ve makine öğrenmesi projelerinde çalıştım. Monolitik ve mikroservis mimarileri kullanarak projeler geliştirdim ve şu anda aktif olarak mikroservis mimarisi kullanarak projeler geliştiriyorum. Ayrıca görüntü işleme, veritabanı programlama ve bulut sistemleri konularında deneyimliyim.</h3>
+## Hi 👋 I'm Mehmet Eren
 
-<p align="center">
-  <iframe src="https://lottie.host/embed/214bcb10-e327-4bbf-9499-bdf86cd1a384/xHoDrblcTN.json" width="400" height="400"></iframe>
-</p>
+**4th year Computer Engineering Student - Selçuk University**
 
-<h3 align="justify">Açık kaynak projelerde iş birliğine açığım.</h3>
+I am a 4th year student at Selcuk University, Department of Computer Engineering. I have worked on projects on deep learning and machine learning. I have written projects using monolithic and microservice architecture. I am currently actively developing projects using microservice architecture. I also have experience in image processing, database programming and cloud systems.
 
-<p align="left">
-  <ul>
-    <li>📍 Bursa'da yaşıyorum</li>
-    <li>📧 Bana <a href="mailto:erenmhmt16@gmail.com">erenmhmt16@gmail.com</a> adresinden ulaşabilirsiniz</li>
-    <li>🔗 <a href="https://www.linkedin.com/in/mehmet-eren-48644128b/">LinkedIn Profilim</a></li>
-    <li>🤝 Açık kaynak projelerde iş birliğine açığım</li>
-  </ul>
-</p>
-<br>
+- 📍 I live in Bursa  
+- 📧 You can reach me at [erenmhmt16@gmail.com](mailto:erenmhmt16@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mehmet-eren-48644128b/)  
+- 🤝 I am open to collaboration on open source projects  
 
-<h3 align="left">Beceriler ve Teknolojiler:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,azure,py,mysql,postgres,docker,redis,rabbitmq,flutter,firebase,github,git,postman,visualstudio,vscode,oracle" />
-  </a>
-</p>
+---
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
-</p>
+### Skills  
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="mailto:erenmhmt16@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="erenmhmt16@gmail.com" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mehmet-eren-48644128b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehmet-eren" height="30" width="40" /></a>
-</p>
+| ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) |  
+|---|---|---|  
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |  
+| ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white) |  
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |  
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white) |  
+| ![Microservices](https://img.shields.io/badge/-Microservices-000000?logo=microgen&logoColor=white) |  |  |  
