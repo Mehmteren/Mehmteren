@@ -7,7 +7,7 @@
 Backend Developer | 
 Hello, I am Mehmet Eren. I am a Computer Engineering student at Selcuk University. I will graduate in May 2025. I have focused on microservice architecture, N-Tier Architecture and artificial intelligence based systems and I have developed and continue to develop myself in these areas. I do backend development with C# and ASP.NET Core; I use tools such as RabbitMQ, Redis, PostgreSQL, MongoDB and MsSql effectively in data management and messaging processes. I have developed various projects in the fields of deep learning and machine learning and presented one of these works at an international conference.
 
-- 📍 I live in Bursa  
+- 📍 I live in Bursa - İstanbul 
 - 📧 You can reach me at [erenmhmt16@gmail.com](mailto:erenmhmt16@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mehmet-eren-48644128b/)  
 - 🤝 I am open to collaboration on open source projects  
