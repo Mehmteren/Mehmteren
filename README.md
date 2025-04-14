@@ -4,7 +4,8 @@
 
 **4th year Computer Engineering Student - Selçuk University**
 
-I am a 4th year student at Selcuk University, Department of Computer Engineering. I have worked on projects on deep learning and machine learning. I have written projects using monolithic and microservice architecture. I am currently actively developing projects using microservice architecture. I also have experience in image processing, database programming and cloud systems.
+Backend Developer | 
+Hello, I am Mehmet Eren. I am a Computer Engineering student at Selcuk University. I will graduate in May 2025. I have focused on microservice architecture, N-Tier Architecture and artificial intelligence based systems and I have developed and continue to develop myself in these areas. I do backend development with C# and ASP.NET Core; I use tools such as RabbitMQ, Redis, PostgreSQL, MongoDB and MsSql effectively in data management and messaging processes. I have developed various projects in the fields of deep learning and machine learning and presented one of these works at an international conference.
 
 - 📍 I live in Bursa  
 - 📧 You can reach me at [erenmhmt16@gmail.com](mailto:erenmhmt16@gmail.com)  
