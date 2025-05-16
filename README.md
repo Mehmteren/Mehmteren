@@ -1,4 +1,3 @@
-# Mehmet Eren
 
 ## Hi 👋 I'm Mehmet Eren
 
