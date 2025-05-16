@@ -1,4 +1,4 @@
-# Mehmet Eren / README.md
+# Mehmet Eren
 
 ## Hi 👋 I'm Mehmet Eren
 
