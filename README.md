@@ -12,7 +12,7 @@
  projects at an international conference.
 
 - 📍 I live in Bursa - İstanbul 
-- 📧 You can reach me at [erenmhmt16@gmail.com](mailto:erenmhmt16@gmail.com)  
+- 📧 You can reach me at [mehmeteren.tech@gmail.com](mailto:mehmeteren.tech@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mehmet-eren-48644128b/)  
 - 🤝 I am open to collaboration on open source projects  
 
