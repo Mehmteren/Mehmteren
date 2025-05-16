@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Mehmet Eren
 
-**Software Engineer| 
+** Software Engineer| 
 
  Hello, I am Mehmet Eren. I graduated from Selçuk University Computer Engineering in May 2025. I have focused on microservice architecture, N-Tier
  Architecture and artificial intelligence based systems and I have developed and continue to develop myself in these areas. I do backend development
