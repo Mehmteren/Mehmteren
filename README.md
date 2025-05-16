@@ -2,10 +2,14 @@
 
 ## Hi 👋 I'm Mehmet Eren
 
-**4th year Computer Engineering Student - Selçuk University**
+**Software Engineer| 
 
-Backend Developer | 
-Hello, I am Mehmet Eren. I am a Computer Engineering student at Selcuk University. I will graduate in May 2025. I have focused on microservice architecture, N-Tier Architecture and artificial intelligence based systems and I have developed and continue to develop myself in these areas. I do backend development with C# and ASP.NET Core; I use tools such as RabbitMQ, Redis, PostgreSQL, MongoDB and MsSql effectively in data management and messaging processes. I have developed various projects in the fields of deep learning and machine learning and presented one of these works at an international conference.
+ Hello, I am Mehmet Eren. I graduated from Selçuk University Computer Engineering in May 2025. I have focused on microservice architecture, N-Tier
+ Architecture and artificial intelligence based systems and I have developed and continue to develop myself in these areas. I do backend development
+ with C# and ASP.NET Core; I use technologies such as RabbitMQ, Redis, PostgreSQL, Elasticsearch, MongoDB and MsSQL effectively in data
+ management and messaging processes. I use RESTful API standards for inter-service communication and deploy my projects through Docker
+ containers. I have also developed various projects in the fields of deep learning and machine learning. I had the opportunity to present one of these
+ projects at an international conference.
 
 - 📍 I live in Bursa - İstanbul 
 - 📧 You can reach me at [erenmhmt16@gmail.com](mailto:erenmhmt16@gmail.com)  
